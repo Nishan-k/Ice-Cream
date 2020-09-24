@@ -1,0 +1,35 @@
+.Ingredients {
+  align-items: center;
+}
+
+.Chocolate {
+  width: 400px;
+  height: 50px;
+  background-color: #653403;
+  border-radius: 10px;
+  margin-bottom: 2px;
+}
+
+.Strawberry {
+  width: 400px;
+  height: 50px;
+  background-color: #bc2e2c;
+  border-radius: 10px;
+  margin-bottom: 2px;
+}
+
+.Vanilla {
+  width: 400px;
+  height: 50px;
+  background-color: #f7ec78;
+  border-radius: 10px;
+  margin-bottom: 2px;
+}
+
+.Cup {
+  width: 450px;
+  height: 150px;
+  border-radius: 0 0 10px 10px;
+  background-color: wheat;
+  box-shadow: 0 4px 5px grey;
+}

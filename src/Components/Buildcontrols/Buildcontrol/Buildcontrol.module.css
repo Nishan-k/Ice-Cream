@@ -1,0 +1,27 @@
+.Content {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  align-items: center;
+  width: 80%;
+  margin: 0 80px;
+  margin-top: 15px;
+  color: white;
+  font-size: 20px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.Content button {
+  background-color: #ffa500;
+  border: 1px solid #aa6817;
+  cursor: pointer;
+  font-size: 18px;
+  margin: 0 5px;
+  outline: none;
+  width: 120px;
+}
+
+.Content button:hover {
+  background-color: #ac9980;
+}

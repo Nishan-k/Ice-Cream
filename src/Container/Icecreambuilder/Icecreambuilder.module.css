@@ -1,0 +1,9 @@
+.Content {
+  width: 90%;
+  margin: auto;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-top: 100px;
+  padding: 20px;
+}
